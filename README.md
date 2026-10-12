@@ -48,7 +48,7 @@ My own project related references:
 - `2 BIT K-map.jpeg`
 - `Flip flop and 555 timer bread circuit.png`
 - `Circuit Board.jpeg`
-- `2BIT COUNTER Output Video.mp4`
+- [2BIT COUNTER Output Video.mp4](https://github.com/imnithins01/2-BIT-Counter/blob/028e686d9ad53c388f490749ec35cf56311f73ac/2BIT%20COUNTER%20Output%20Video.mp4)
 - [0 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/e56649fd1fce9ce3c0ca1e307613868c1bb1095f/0%20Output.jpg)
 - [1 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/14889ad2008044e885a601405e80b774a97a41a1/1%20Output.jpg)
 - [2 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/bc9cf81809725b3fb3cee8ccdfe702da265247d6/2%20Output.jpg)
