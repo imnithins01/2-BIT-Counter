@@ -43,7 +43,8 @@ For a common-cathode display, the common cathode is connected to the appropriate
 
 ## Evidence
 Add your own files here:
-- `"Flip flop and 555 timer circuit.png"`
+- `Flip flop and 555 timer circuit.png`
+- 'Flip flop and 555 timer bread circuit.png'
 - `Circuit Board.jpeg`
 - `2BIT COUNTER Output Video.mp4`
 - `555_timer_2_bit_counter_project_report.pdf`
