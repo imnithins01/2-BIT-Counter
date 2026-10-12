@@ -43,6 +43,7 @@ For a common-cathode display, the common cathode is connected to the appropriate
 
 ## Evidence
 My own project related references:
+
 - `Flip flop and 555 timer circuit.png`
 - `Flip flop and 555 timer bread circuit.png`
 - `Circuit Board.jpeg`
@@ -54,7 +55,7 @@ My own project related references:
 - `555_timer_2_bit_counter_project_report.pdf`
 
 ## Learning Outcomes
-This project provided practical exposure to ICs, clock pulses, digital logic, flip-flop state storage, binary counting, display interfacing, and hardware troubleshooting. It also involved learning unfamiliar concepts through online resources and guidance from college seniors.
+This project provided practical exposure to ICs, clock pulses, digital logic, flip-flop state storage, binary counting, display interfacing, and hardware troubleshooting. It also involved learning unfamiliar concepts through online resources and guidance from college seniors and professors.
 
 ## Limitations / Details to Confirm
 - 555 timer configuration (astable or monostable)
