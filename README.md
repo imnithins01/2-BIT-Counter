@@ -45,7 +45,7 @@ For a common-cathode display, the common cathode is connected to the appropriate
 Add your own files here:
 - `"Flip flop and 555 timer circuit.png"`
 - `images/hardware-setup.jpg`
-- `images/display-output.jpg`
+- `2BIT COUNTER Output Video.mp4`
 - `docs/project-report.pdf`
 
 ## Learning Outcomes
