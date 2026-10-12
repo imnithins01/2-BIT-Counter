@@ -46,7 +46,7 @@ My own project related references:
 - 555 timer circuit.png
 - [Flip flop and 555 timer circuit.png](https://github.com/imnithins01/2-BIT-Counter/blob/73874b1f8792a92a47e90c6d623ca12946b48388/Flip%20flop%20and%20555%20timer%20circuit.png)
 - [2 BIT K-map.jpeg](https://github.com/imnithins01/2-BIT-Counter/blob/13734c1804bcf97c3060ca23fcf104046993f76e/2%20BIT%20K-map.jpeg)
-- `Flip flop and 555 timer bread circuit.png`
+- [Flip flop and 555 timer bread circuit.png](https://github.com/imnithins01/2-BIT-Counter/blob/c90eab583fbe43e2f93152b2ce1b75c19ae41515/Flip%20flop%20and%20555%20timer%20bread%20circuit.png)
 - [Circuit Board.jpeg](https://github.com/imnithins01/2-BIT-Counter/blob/b69b684c98f2c71c44520223e07bd3e3b93602dd/Circuit%20Board.jpeg)
 - [2 BIT COUNTER Output Video.mp4](https://github.com/imnithins01/2-BIT-Counter/blob/028e686d9ad53c388f490749ec35cf56311f73ac/2BIT%20COUNTER%20Output%20Video.mp4)
 - [0 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/e56649fd1fce9ce3c0ca1e307613868c1bb1095f/0%20Output.jpg)
