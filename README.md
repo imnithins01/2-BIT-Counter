@@ -49,8 +49,8 @@ My own project related references:
 - `Flip flop and 555 timer bread circuit.png`
 - `Circuit Board.jpeg`
 - `2BIT COUNTER Output Video.mp4`
-- [`0 Output.jpg`](https://github.com/imnithins01/2-BIT-Counter/blob/e56649fd1fce9ce3c0ca1e307613868c1bb1095f/0%20Output.jpg)
-- `1 Output.jpg`
+- [0 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/e56649fd1fce9ce3c0ca1e307613868c1bb1095f/0%20Output.jpg)
+- [1 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/14889ad2008044e885a601405e80b774a97a41a1/1%20Output.jpg)
 - [2 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/bc9cf81809725b3fb3cee8ccdfe702da265247d6/2%20Output.jpg)
 - `3 Output.jpg`
 - `555_timer_2_bit_counter_project_report.pdf`
