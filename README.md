@@ -46,7 +46,7 @@ Add your own files here:
 - `"Flip flop and 555 timer circuit.png"`
 - `Circuit Board.jpeg`
 - `2BIT COUNTER Output Video.mp4`
-- `docs/project-report.pdf`
+- `555_timer_2_bit_counter_project_report.pdf`
 
 ## Learning Outcomes
 This project provided practical exposure to ICs, clock pulses, digital logic, flip-flop state storage, binary counting, display interfacing, and hardware troubleshooting. It also involved learning unfamiliar concepts through online resources and guidance from college seniors.
