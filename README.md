@@ -53,7 +53,7 @@ My own project related references:
 - [1 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/14889ad2008044e885a601405e80b774a97a41a1/1%20Output.jpg)
 - [2 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/bc9cf81809725b3fb3cee8ccdfe702da265247d6/2%20Output.jpg)
 - [3 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/dd66cc1bee386100bdb46a02d815546be684cf2e/3%20Output.jpg)
-- `555_timer_2_bit_counter_project_report.pdf`
+- [555_timer_2_bit_counter_project_report.pdf](https://github.com/imnithins01/2-BIT-Counter/blob/795c7e6cb8022eedc2fd3d8aa413885de0ee15a3/555_timer_2_bit_counter_project_report.pdf)
 
 ## Learning Outcomes
 This project provided practical exposure to ICs, clock pulses, digital logic, flip-flop state storage, binary counting, display interfacing, and hardware troubleshooting. It also involved learning unfamiliar concepts through online resources and guidance from college seniors and professors.
