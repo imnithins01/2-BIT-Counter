@@ -47,6 +47,10 @@ My own project related references:
 - `Flip flop and 555 timer bread circuit.png`
 - `Circuit Board.jpeg`
 - `2BIT COUNTER Output Video.mp4`
+- `0 Output.jpg`
+- `1 Output.jpg`
+- `2 Output.jpg`
+- `3 Output.jpg`
 - `555_timer_2_bit_counter_project_report.pdf`
 
 ## Learning Outcomes
