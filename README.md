@@ -42,9 +42,9 @@ The reported hardware output cycles through decimal digits **0, 1, 2, and 3**.
 For a common-cathode display, the common cathode is connected to the appropriate ground reference and a segment typically lights when its anode is driven HIGH through suitable current-limiting/interface circuitry. Verify the display pinout and wiring against its datasheet.
 
 ## Evidence
-Add your own files here:
+My own project related references:
 - `Flip flop and 555 timer circuit.png`
-- 'Flip flop and 555 timer bread circuit.png'
+- `Flip flop and 555 timer bread circuit.png`
 - `Circuit Board.jpeg`
 - `2BIT COUNTER Output Video.mp4`
 - `555_timer_2_bit_counter_project_report.pdf`
