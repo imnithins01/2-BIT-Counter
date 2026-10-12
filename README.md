@@ -51,7 +51,7 @@ My own project related references:
 - `2BIT COUNTER Output Video.mp4`
 - `0 Output.jpg`
 - `1 Output.jpg`
-- `[2 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/bc9cf81809725b3fb3cee8ccdfe702da265247d6/2%20Output.jpg)`
+- [2 Output.jpg](https://github.com/imnithins01/2-BIT-Counter/blob/bc9cf81809725b3fb3cee8ccdfe702da265247d6/2%20Output.jpg)
 - `3 Output.jpg`
 - `555_timer_2_bit_counter_project_report.pdf`
 
